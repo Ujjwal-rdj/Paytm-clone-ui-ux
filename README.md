@@ -1,5 +1,5 @@
 # Paytm-clone-ui-ux
-To experience the UI --> Download the Payzapp.webarchive file by clicking on view raw, adn then open it in any browser.
+To experience the UI --> Download the Payzapp.webarchive file by clicking on view raw, and then open it in any browser.
 <img width="386" alt="Screenshot 2024-10-19 at 11 09 56 PM" src="https://github.com/user-attachments/assets/4c30c879-27a2-4f39-89cc-079aa83328d5">
 
 Home screen
